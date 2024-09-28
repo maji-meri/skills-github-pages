@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Sample Title
 ---
 
+# Header
+*Lorem* ipsum dolor sit amet.
